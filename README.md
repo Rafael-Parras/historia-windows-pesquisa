@@ -62,3 +62,5 @@ git push origin feature/versao-faltante
 ![Windows 2000](https://static.wikia.nocookie.net/windows/images/c/c6/Windows_2000_Server.png/revision/latest/scale-to-width-down/800?cb=20120822162027)
 # **Windows XP**
 ![Windows XP](https://upload.wikimedia.org/wikipedia/pt/8/8f/Windows_XP_SP3.png)
+# **Windows VISTA**
+![Windows VISTA](https://upload.wikimedia.org/wikipedia/en/a/a3/Windows_Vista.png)
