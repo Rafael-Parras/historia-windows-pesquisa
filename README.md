@@ -19,3 +19,14 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 | **Windows 8**   | 2012 | Interface Metro otimizada para toque, inicialmente sem Menu Iniciar. | A ausência do Menu Iniciar gerou forte rejeição, que levou à volta parcial no 8.1.|
 | **Windows 10**  | 2015 | Atualizações contínuas, integração com Cortana e Menu Iniciar híbrido. | Reintroduziu o Menu Iniciar com “Live Tiles” dinâmicos.|
 | **Windows 11**  | 2021 | Interface modernizada, ícones centralizados e foco em multitarefa. | Exige chip TPM 2.0 para segurança, uma novidade obrigatória e polêmica.|
+
+## 🛠️ Como Contribuir
+
+1. Faça um Fork do projeto.
+
+2. Crie uma branch para sua versão:
+   ```bash
+   git checkout -b feature/versao-faltante
+git commit -m 'Adicionando Windows Vista'
+git push origin feature/versao-faltante
+
