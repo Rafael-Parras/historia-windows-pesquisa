@@ -59,6 +59,6 @@ git push origin feature/versao-faltante
 # **Windows ME**
 ![Windows ME](https://upload.wikimedia.org/wikipedia/en/6/69/WindowsME.png)
 # **Windows 2000**
-![Windows 2000](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fjsnzbg9jjnje1.png)
+![Windows 2000](https://static.wikia.nocookie.net/windows/images/c/c6/Windows_2000_Server.png/revision/latest/scale-to-width-down/800?cb=20120822162027)
 # **Windows XP**
 ![Windows XP](https://upload.wikimedia.org/wikipedia/pt/8/8f/Windows_XP_SP3.png)
