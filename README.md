@@ -21,4 +21,4 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 4. Push para a branch: `git push origin feature/versao-faltante`.
 
 ---
-Desenvolvido por [Seu Nome] - 2026.
+Desenvolvido por Rafael - 2026.
