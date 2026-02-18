@@ -21,7 +21,6 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 | **Windows Vista**  | 2007     | Interface Aero, transparências e busca integrada.               | Muitos continuaram no XP devido a altos requisitos de hardware.                                |
 | **Windows 7**      | 2009     | Melhor desempenho, refinamento da interface e suporte a toque.  | Amplamente considerado um dos Windows mais estáveis.                                           |
 | **Windows 8**      | 2012     | Interface Metro, otimizada para toque, sem Menu Iniciar.        | Críticas intensas pelo Menu Iniciar ausente.                                                  |
-| **Windows 8.1**    | 2013     | Retorno parcial do Menu Iniciar e melhorias de desempenho.      | Ajustou as críticas do Windows 8, mantendo a interface Metro.                                  |
 | **Windows 10**     | 2015     | Atualizações contínuas, Cortana e Menu Iniciar híbrido.         | Reintroduziu o Menu Iniciar com Live Tiles.                                                   |
 | **Windows 10X**    | 2020*    | Versão simplificada para dispositivos dual-screen e tablets.   | Nunca foi amplamente lançada; acabou sendo cancelada em favor do Windows 11.                  |
 | **Windows 11**     | 2021     | UI modernizada, ícones centralizados, foco em multitarefa.      | Exige TPM 2.0; Menu Iniciar redesenhado sem Live Tiles.                                       |
@@ -66,3 +65,9 @@ git push origin feature/versao-faltante
 ![Windows VISTA](https://upload.wikimedia.org/wikipedia/en/a/a3/Windows_Vista.png)
 # **Windows 7**
 ![Windows 7](https://static0.xdaimages.com/wordpress/wp-content/uploads/2023/09/windows-7.png?w=1200&h=675&fit=crop)
+# **Windows 8**
+![Windows 8](https://files.tecnoblog.net/wp-content/uploads/2012/08/windows-8-rtm.png)
+# **Windows 10**
+![Windows 10](https://blindaccessibilitytips.com/wp-content/uploads/2020/10/Capture-1024x576.png)
+# **Windows 11**
+![Windows 11](https://i.ytimg.com/vi/COBJ-j4HEN8/maxresdefault.jpg)
