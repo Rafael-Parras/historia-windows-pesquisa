@@ -32,7 +32,7 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 # **Windows 2.0 e 2.1**
 ![Windows 2.0](https://upload.wikimedia.org/wikipedia/en/c/c9/Windows_2.0.png).............![Windows 2.1](https://upload.wikimedia.org/wikipedia/en/8/8f/Windows_2.1.png)
 # **Windows 3.0, 3.11 e NT 3,1**
-![Windows 3.0](https://upload.wikimedia.org/wikipedia/en/1/15/Windows_3.0_workspace.png)............ ![Windows 3.11](https://winworldpc.com/res/img/screenshots/61e366a8b7e6d03e1abb99efa7e76f22d4abaef33d903dbe56eb57771f7d1f3f.png) .............. ![Windows NT 3.1](https://betawiki.net/images/f/fe/WindowsNT31-RTM-Desktop.png)
+![Windows 3.0](https://upload.wikimedia.org/wikipedia/en/1/15/Windows_3.0_workspace.png)............ ![Windows 3.11](https://winworldpc.com/res/img/screenshots/61e366a8b7e6d03e1abb99efa7e76f22d4abaef33d903dbe56eb57771f7d1f3f.png) .............. ![Windows NT 3.1](https://static.wikia.nocookie.net/windows/images/9/9e/Winnt31.png/revision/latest?cb=20190908165336)
 # **Windows NT 4**
 ![Windows NT 4](https://upload.wikimedia.org/wikipedia/en/4/4e/Windows_NT_4.0.png)
 # **Windows 95**
