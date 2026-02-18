@@ -31,3 +31,4 @@ git commit -m 'Adicionando Windows Vista'
 
 git push origin feature/versao-faltante
 
+![Windows XP](https://artpoin.com/wp-content/uploads/2022/08/centro-de-mesa-spider-man.png)
