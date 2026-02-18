@@ -48,5 +48,7 @@ git push origin feature/versao-faltante
 ![Windows 3.0](https://upload.wikimedia.org/wikipedia/en/1/15/Windows_3.0_workspace.png)
 # **Windows 3.11**
 ![Windows 3.11](https://winworldpc.com/res/img/screenshots/61e366a8b7e6d03e1abb99efa7e76f22d4abaef33d903dbe56eb57771f7d1f3f.png)
+# **Windows NT 3.11**
+![Windows NT 3.1](https://betawiki.net/images/f/fe/WindowsNT31-RTM-Desktop.png)
 # **Windows XP**
 ![Windows XP](https://upload.wikimedia.org/wikipedia/pt/8/8f/Windows_XP_SP3.png)
