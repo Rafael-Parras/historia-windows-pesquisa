@@ -50,5 +50,11 @@ git push origin feature/versao-faltante
 ![Windows 3.11](https://winworldpc.com/res/img/screenshots/61e366a8b7e6d03e1abb99efa7e76f22d4abaef33d903dbe56eb57771f7d1f3f.png)
 # **Windows NT 3.11**
 ![Windows NT 3.1](https://betawiki.net/images/f/fe/WindowsNT31-RTM-Desktop.png)
+# **Windows NT 4**
+![Windows NT 4](https://upload.wikimedia.org/wikipedia/en/4/4e/Windows_NT_4.0.png)
+# **Windows 95**
+![Windows 95](https://upload.wikimedia.org/wikipedia/en/e/eb/Windows_95_at_first_run.png)
+# **Windows 98**
+![Windows 98](https://museucapixaba.com.br/wp-content/uploads/2023/06/sistema-operacional-Microsoft-Windows-98-2.jpg)
 # **Windows XP**
 ![Windows XP](https://upload.wikimedia.org/wikipedia/pt/8/8f/Windows_XP_SP3.png)
