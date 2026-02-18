@@ -31,4 +31,9 @@ git commit -m 'Adicionando Windows Vista'
 
 git push origin feature/versao-faltante
 
-![Windows XP](https://artpoin.com/wp-content/uploads/2022/08/centro-de-mesa-spider-man.png)
+# **Windows 1.0**
+![Windows 1.0](https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Windows1.0.png/330px-Windows1.0.png)
+# **Windows 2.0**
+![Windows 2.0](https://upload.wikimedia.org/wikipedia/en/c/c9/Windows_2.0.png)
+# **Windows XP**
+![Windows XP](https://radaramazonico.com.br/wp-content/uploads/2013/10/Windows-XP-Radar-Amazonico.png)
