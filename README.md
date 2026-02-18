@@ -49,4 +49,4 @@ git push origin feature/versao-faltante
 # **Windows 3.11**
 ![Windows 3.11](https://winworldpc.com/res/img/screenshots/61e366a8b7e6d03e1abb99efa7e76f22d4abaef33d903dbe56eb57771f7d1f3f.png)
 # **Windows XP**
-![Windows XP](https://radaramazonico.com.br/wp-content/uploads/2013/10/Windows-XP-Radar-Amazonico.png)
+![Windows XP](https://upload.wikimedia.org/wikipedia/pt/8/8f/Windows_XP_SP3.png)
