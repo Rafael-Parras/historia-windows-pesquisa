@@ -35,5 +35,7 @@ git push origin feature/versao-faltante
 ![Windows 1.0](https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Windows1.0.png/330px-Windows1.0.png)
 # **Windows 2.0**
 ![Windows 2.0](https://upload.wikimedia.org/wikipedia/en/c/c9/Windows_2.0.png)
+# **Windows 2.1**
+![Windows 2.1](https://museucapixaba.com.br/wp-content/uploads/2023/05/sistema-Microsoft-Windows-2.1-3.jpg)
 # **Windows XP**
 ![Windows XP](https://radaramazonico.com.br/wp-content/uploads/2013/10/Windows-XP-Radar-Amazonico.png)
