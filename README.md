@@ -56,5 +56,7 @@ git push origin feature/versao-faltante
 ![Windows 95](https://upload.wikimedia.org/wikipedia/en/e/eb/Windows_95_at_first_run.png)
 # **Windows 98**
 ![Windows 98](https://museucapixaba.com.br/wp-content/uploads/2023/06/sistema-operacional-Microsoft-Windows-98-2.jpg)
+# **Windows ME**
+![Windows ME](https://upload.wikimedia.org/wikipedia/en/6/69/WindowsME.png)
 # **Windows XP**
 ![Windows XP](https://upload.wikimedia.org/wikipedia/pt/8/8f/Windows_XP_SP3.png)
