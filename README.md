@@ -27,16 +27,12 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 | **Windows Server** | Variável | Versões específicas para servidores baseadas em NT/2000/2016+  | Incluem recursos de rede, Active Directory e virtualização; lançamentos acompanham o Windows principal. |
 
 
-# **Windows 1.0 e Windows 2.0**
-![Windows 1.0](https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Windows1.0.png/330px-Windows1.0.png) ------- ![Windows 2.0](https://upload.wikimedia.org/wikipedia/en/c/c9/Windows_2.0.png)
-# **Windows 2.1**
-![Windows 2.1](https://upload.wikimedia.org/wikipedia/en/8/8f/Windows_2.1.png)
-# **Windows 3.0**
-![Windows 3.0](https://upload.wikimedia.org/wikipedia/en/1/15/Windows_3.0_workspace.png)
-# **Windows 3.11**
-![Windows 3.11](https://winworldpc.com/res/img/screenshots/61e366a8b7e6d03e1abb99efa7e76f22d4abaef33d903dbe56eb57771f7d1f3f.png)
-# **Windows NT 3.11**
-![Windows NT 3.1](https://betawiki.net/images/f/fe/WindowsNT31-RTM-Desktop.png)
+# **Windows 1.0**
+![Windows 1.0](https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Windows1.0.png/330px-Windows1.0.png)
+# **Windows 2.0 e 2.1**
+![Windows 2.0](https://upload.wikimedia.org/wikipedia/en/c/c9/Windows_2.0.png).............![Windows 2.1](https://upload.wikimedia.org/wikipedia/en/8/8f/Windows_2.1.png)
+# **Windows 3.0, 3.11 e NT 3,1**
+![Windows 3.0](https://upload.wikimedia.org/wikipedia/en/1/15/Windows_3.0_workspace.png)............ ![Windows 3.11](https://winworldpc.com/res/img/screenshots/61e366a8b7e6d03e1abb99efa7e76f22d4abaef33d903dbe56eb57771f7d1f3f.png) .............. ![Windows NT 3.1](https://betawiki.net/images/f/fe/WindowsNT31-RTM-Desktop.png)
 # **Windows NT 4**
 ![Windows NT 4](https://upload.wikimedia.org/wikipedia/en/4/4e/Windows_NT_4.0.png)
 # **Windows 95**
