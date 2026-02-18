@@ -26,16 +26,6 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
 | **Windows 11**     | 2021     | UI modernizada, ícones centralizados, foco em multitarefa.      | Exige TPM 2.0; Menu Iniciar redesenhado sem Live Tiles.                                       |
 | **Windows Server** | Variável | Versões específicas para servidores baseadas em NT/2000/2016+  | Incluem recursos de rede, Active Directory e virtualização; lançamentos acompanham o Windows principal. |
 
-## 🛠️ Como Contribuir
-
-1. Faça um Fork do projeto.
-
-2. Crie uma branch para sua versão:
-   ```bash
-   git checkout -b feature/versao-faltante
-git commit -m 'Adicionando Windows Vista'
-
-git push origin feature/versao-faltante
 
 # **Windows 1.0**
 ![Windows 1.0](https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Windows1.0.png/330px-Windows1.0.png)
