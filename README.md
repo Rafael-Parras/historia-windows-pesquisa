@@ -64,3 +64,5 @@ git push origin feature/versao-faltante
 ![Windows XP](https://upload.wikimedia.org/wikipedia/pt/8/8f/Windows_XP_SP3.png)
 # **Windows VISTA**
 ![Windows VISTA](https://upload.wikimedia.org/wikipedia/en/a/a3/Windows_Vista.png)
+# **Windows 7**
+![Windows 7](https://static0.xdaimages.com/wordpress/wp-content/uploads/2023/09/windows-7.png?w=1200&h=675&fit=crop)
