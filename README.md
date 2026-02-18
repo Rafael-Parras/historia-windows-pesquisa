@@ -28,5 +28,6 @@ Repositório destinado à pesquisa histórica das versões do Microsoft Windows,
    ```bash
    git checkout -b feature/versao-faltante
 git commit -m 'Adicionando Windows Vista'
+
 git push origin feature/versao-faltante
 
